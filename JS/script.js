@@ -4,7 +4,7 @@ const app = new Vue(
     {
         el: "#app",
         data: {
-            text: 'ciao, piacere di averti nella mia pagina',
+            text: 'Ciao, piacere di averti nella mia pagina',
         }
     }
 
